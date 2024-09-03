@@ -14,6 +14,10 @@ header {
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
+
 nav ul {
     list-style: none;
     padding: 0;
@@ -48,6 +52,21 @@ nav ul li a:hover {
     
 }
 
+span {
+    font-size: 17px;
+    font-style:oblique;
+    font-weight: bold;
+    
+}
+
+p1 {
+    font-size: 15px;
+   display: flex;
+   
+}
+
+
+
 
 section {
     margin: 20px auto;
@@ -57,7 +76,10 @@ section {
     border-radius: 5px;
 }
 
+
+
 .project img {
+   margin-top: 10px;
     max-width: 100%;
     height: auto;
 }
