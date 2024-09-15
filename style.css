@@ -52,21 +52,23 @@ nav ul li a:hover {
     
 }
 
+p{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+p1 {
+    font-size: 15px;
+    display: flex;
+  
+}
+
 span {
     font-size: 17px;
     font-style:oblique;
     font-weight: bold;
     
 }
-
-p1 {
-    font-size: 15px;
-   display: flex;
-   
-}
-
-
-
 
 section {
     margin: 20px auto;
